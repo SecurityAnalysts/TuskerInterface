@@ -1,7 +1,7 @@
 # TuskerInterface
 
 
-![](https://github.com/mage-master/TuskerInterface/blob/main/banner.png)
+![](https://github.com/mage-master/TuskerInterface/blob/main/logo.png)
 
 
 
