@@ -31,3 +31,8 @@
 - You need sslstrip installed and running on your system while executing this tool.*
 - You need to run sslstrip, then two instances of this script (one for arp spoofing other for password sniffing)*
 - I recommend using a custom terminal like 'Terminator' for easy access to different terminals*
+
+
+### Bugs:
+- Report bugs to mage-master@tutanota.com
+
