@@ -33,6 +33,8 @@
 - I recommend using a custom terminal like 'Terminator' for easy access to different terminals*
 
 
-### Bugs:
+## Bugs:
 - Report bugs to mage-master@tutanota.com
+
+### - Mage-Master
 
