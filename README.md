@@ -4,6 +4,8 @@
 ![](https://github.com/mage-master/TuskerInterface/blob/main/banner.png)
 
 
+
+
 ## Introduction:
 
 - This is a simple yet extremely powerful **Python HTTP/HTTPS Login Sniffer** script.
@@ -11,17 +13,20 @@
 - You can also run them standalone though I wouldn't do that (*just not built that way*)
 
 
-### Installation:
+
+## Installation:
 
  ```sudo python3 install.py```
 
 
 
-### Execution:
+
+## Execution:
  ```sudo python3 tusker_interface.py```
+
+
  
- 
-### NOTE: 
+## NOTE: 
 
 - You need sslstrip installed and running on your system while executing this tool.*
 - You need to run sslstrip, then two instances of this script (one for arp spoofing other for password sniffing)*
