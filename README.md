@@ -34,7 +34,7 @@
 
 
 ## Bugs:
-- Report bugs to mage-master@tutanota.com
+- If you found any bugs report to mage-master@tutanota.com
 
 ### - Mage-Master
 
